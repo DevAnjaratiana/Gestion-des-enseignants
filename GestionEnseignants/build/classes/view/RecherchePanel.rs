@@ -1,0 +1,2 @@
+gestionenseignants.view.RecherchePanel$1
+gestionenseignants.view.RecherchePanel

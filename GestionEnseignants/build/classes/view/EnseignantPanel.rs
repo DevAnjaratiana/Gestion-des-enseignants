@@ -1,0 +1,4 @@
+EnseignantPanel
+gestionenseignants.view.EnseignantPanel
+gestionenseignants.view.EnseignantPanel$1
+gestionenseignants.view.EnseignantPanel$2
